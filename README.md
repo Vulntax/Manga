@@ -1,2 +1,1 @@
-# Manga
-Created via RepoFlow
+
